@@ -5,3 +5,4 @@ virtualenv==20.26.6
 
 gunicorn
 django
+pillow
