@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-0=eho48%9b*a8(7q$6*$ujywe*m1@y6j@76u%dm&h6%o@8-g&7
 # SECURITY WARNING: don't run with debug turned on in production!
 # DEBUG = os.getenv('DEBUG', 'FALSE') == 'True'
 DEBUG = True
-ALLOWED_HOSTS = ['www.vividvisiongcc.com , vividvisiongcc.com']
+ALLOWED_HOSTS = ['www.vividvisiongcc.com']
 
 
 
